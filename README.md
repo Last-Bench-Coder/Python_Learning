@@ -27,7 +27,9 @@ https://www.python.org/downloads/
 
 ![image](https://user-images.githubusercontent.com/81896060/134804067-6b08fb3e-29d7-4c74-aee6-038e2fd0ac6f.png)
 
-*  
+*  You can see that Python is successfully installed
+
+![image](https://user-images.githubusercontent.com/81896060/134804228-a35666a2-95ca-4c31-9870-96c0ece7624e.png)
 
 Run the python with below command
 
