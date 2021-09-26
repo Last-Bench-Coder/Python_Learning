@@ -7,7 +7,7 @@ b = 10.5
 # print is the function that perform actions or calculate outputs(or both)
 print(b)
 
-# String variable
+# Another useful data type is the string. A string can contain letters, numbers, and symbols.
 name = "Chakrapani Upadhyaya"
 print("String value for variable name is : "+name)
 
