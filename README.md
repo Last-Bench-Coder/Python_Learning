@@ -4,7 +4,13 @@ Python is a multi-paradigm, dynamically typed, multipurpose programming language
 
 Python Installation:
 
-** Download the Python Installer binaries
+* Download the Python Installer binaries
+
+https://www.python.org/downloads/
+
+![image](https://user-images.githubusercontent.com/81896060/134803847-1e2a5ab7-6243-4a7f-a687-e16fd6d17577.png)
+
+* 
 
 Run the python with below command
 
