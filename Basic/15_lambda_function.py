@@ -25,10 +25,12 @@ print(add_lambda(10, 10))
 def double(x):
     return x*2
 
-seq = [1,2,3,4,5]
+
+seq = [1, 2, 3, 4, 5]
 doubled = [double(x) for x in seq]
 print(doubled)
 
-#OR
+# OR
 
-
+doubled_lambda = list(map(lambda x: x*2, seq))
+print(doubled_lambda)
