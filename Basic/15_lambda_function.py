@@ -2,9 +2,6 @@
 # and is only used to return values
 # lambda functions are exclusively used to operate on inputs and return outputs
 
-from typing import Sequence
-
-
 def add(x, y):
     return x+y
 
